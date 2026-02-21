@@ -3,7 +3,7 @@ Verwalte Deine Eisenbahn Sammlung
 
 # Voraussetzung
 - Apache Webserver
-- PHP < 8
+- PHP > 8.1
 - MariaDB oder MySQL
 - LAMP, XAMPP or MAMPP
 
